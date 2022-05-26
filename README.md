@@ -166,21 +166,21 @@ Keep in mind that most of the companies you're talking to are delivering service
 
 ## Threat Modelling
 
-If you're comfortable designing systems, you should be comfortable interpreting system designs and identifying the points at risk. Cover trust boundaries and explain why issues often happen at the intersection of systems and trust boundaries. Cover split responsability model for modern environments and focus on what's in scope.
+If you're comfortable designing systems, you should be comfortable interpreting system designs and identifying the points at risk. Cover trust boundaries and explain why issues often happen at the intersection of systems and trust boundaries. Cover the split responsability model for modern environments and focus on what's in scope.
 
-Practice by drawing diagrams for systems you are familiar with and model 'dem threats.
+Practice by drawing diagrams for systems you are familiar with and model those threats.
 
 I take the following approach:
 
-1. Flag interesting assets
+1. Flag assets of interest to attackers
 2. Identify threat actors
 3. Start from entry points available to said threat actors
-4. Dump all attack vectors
+4. Dump all attack vectors you can think about
 5. Discuss mitigations
 
 ## Algorithms
 
-Start reviewing the following topics with [Geeks for Geeks](https://www.geeksforgeeks.org/) and then start grinding [LeetCode](https://leetcode.com/). You should be smashing through medium level LeetCode challenges and trying your hand at the occasional hard challenge. Don't listen to the haters; this can be fun if you get into it.
+Start reviewing the following topics with [Geeks for Geeks](https://www.geeksforgeeks.org/) and then start grinding [LeetCode](https://leetcode.com/). You should be smashing through medium level LeetCode challenges and the occasional hard challenge. Don't listen to the haters; this can be a lot of fun if you get into it.
 
 ### Books
 
@@ -189,7 +189,6 @@ Start reviewing the following topics with [Geeks for Geeks](https://www.geeksfor
 ### General
 
 - Big O notation
-- Dynamic programming
 - No free lunch theorem
 - Floyd's algorithm
 
@@ -342,7 +341,7 @@ All the basic cloud stuff.
 
 ## Red Teaming
 
-All the basic red team stuff. Be capable of explaining a full attack chain, and give examples for each step. Explain C2 infrastructure, egressing...
+All the basic red team stuff. Be capable of explaining a full attack chain, and give examples for each step. Explain C2 infrastructure, persistence, egress...
 
 ## Detection
 
