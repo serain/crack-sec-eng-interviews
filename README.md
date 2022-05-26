@@ -296,6 +296,7 @@ I was applying for roles to work in and around ML. Replace this section with wha
 
 - Neural networks
 - Neural networks as universal approximators and caveats
+- Reinforcement learning
 - Activation functions, why and why these?
 - Adversarial samples and defenses
 - Random forests
