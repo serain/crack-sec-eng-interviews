@@ -77,7 +77,7 @@ You should be able to discuss operating system fundamentals, memory management, 
 
 ## Memory Corruption
 
-You're unlikely to be quizzed in-depth on binary exploitation for the average Security Engineer role, but you should know the basics and explain the remediations.
+You're unlikely to be quizzed in-depth on binary exploitation for the average Security Engineer role, but you should know the basics and be capable of explaining their remediations.
 
 ### Question Prep
 
