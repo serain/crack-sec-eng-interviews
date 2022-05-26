@@ -114,7 +114,7 @@ You should understand Linux' security model, why SELinux/AppArmor exist and what
 
 ## Networking
 
-Be able to talk about some of these things. For example if the topic is "TLS" you should be able to describe the handshake, how a session master key is derived, the kind of crypto involved... What problems are gRPC and HTTP/2.0 solving?
+Be able to talk about some of these things. For example if the topic is "TLS" you should be able to describe the handshake, how a session master key is derived, the kind of crypto involved... What problems are gRPC and HTTP/2.0 solving and how are they doing that?
 
 ### Question Prep
 
@@ -130,7 +130,7 @@ Be able to talk about some of these things. For example if the topic is "TLS" yo
 
 ## Cryptography
 
-Be capable of explaining each of these in details, including flows, parameters involved, crypto decisions that could be made, what problems they are solving...
+Be capable of explaining each of these in details, including flows, parameters involved, crypto decisions that could be made, the problems they are solving...
 
 ### Question Prep
 
