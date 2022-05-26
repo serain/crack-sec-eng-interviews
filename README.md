@@ -6,7 +6,7 @@ These companies will be more interested in your software and infrastructure engi
 
 Some general guidelines:
 
-- For everything discussed here you should have more than surface level knowledge, but not necessarily in-depth. If you bring something up, interviewers may push you on it to make sure you know what you're talking about.
+- For everything discussed here you should have more than surface level knowledge, but not necessarily in-depth. If you bring something up, expect interviewers to press you on it.
 - Non-coding interviews will tend to be "high breadth, medium depth" and fast-paced.
 - Make sure you treat coding interviews as a pairing session with the interviewer; explain everything you are doing and why you're doing it.
 - You've got an hour to convince the interviewer that you know a lot of stuff. Don't hesitate to volunteer information if you have something interesting to say related to the topic at hand; if you can go deeper then go deeper, don't just answer the questions.
