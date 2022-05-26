@@ -172,8 +172,8 @@ I take the following approach:
 
 1. Flag assets of interest to attackers
 2. Identify threat actors
-3. Start from entry points available to said threat actors
-4. Dump all attack vectors you can think about
+3. Start from entry points available to each threat actor
+4. Dump all attack vectors you can think of
 5. Discuss mitigations
 
 ## Algorithms
