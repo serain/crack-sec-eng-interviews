@@ -60,8 +60,6 @@ You should be able to discuss operating system fundamentals, memory management, 
 
 ### Question Prep
 
-Question prep:
-
 - Memory leaks
 - Dynamic linker
 - Memory layout of a program
