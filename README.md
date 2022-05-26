@@ -1,4 +1,4 @@
-# Cracking the Security Engineer Interview
+# Cracking the Security Engineer Interviews
 
 This is a list of technical topics I reviewed before interviewing for Security Engineer positions at some high-profile tech companies. Behavioral interviews are not in scope here.
 
