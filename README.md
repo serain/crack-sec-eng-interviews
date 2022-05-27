@@ -4,7 +4,7 @@
 
 This is a list of technical topics I reviewed before interviewing for Security Engineer positions at some high-profile tech companies. Behavioral interviews are not in scope here.
 
-Some of these companies will be more interested in your software and infrastructure engineering skills than your security credentials. You should be comfortable interviewing at a mid-level Software Engineer level, regardless of the security role and position you are applying for. You should also be comfortable with designing systems with scale in mind and understand some of the issues you're likely to encounter there.
+Some of these companies will be more interested in your software and infrastructure engineering skills than your security credentials. You should be comfortable interviewing at a mid-level Software Engineer level or above, regardless of the security role and position you are applying for. You should also be comfortable with designing systems with scale in mind and understand some of the issues you're likely to encounter there.
 
 A few general guidelines:
 
