@@ -1,6 +1,6 @@
 # Cracking the Security Engineer Interviews
 
-> This interview preparation checklist was assembled by collecting information from various sources _before_ I sat any interviews with these kind of companies. The following doesn't reflect anything I learned while interviewing.
+> This interview preparation checklist was assembled by collecting information from various sources _before_ I sat any interviews. The following doesn't reflect anything I learned while interviewing.
 
 This is a list of technical topics I reviewed before interviewing for Security Engineer positions at some high-profile tech companies. Behavioral interviews are not in scope here.
 
