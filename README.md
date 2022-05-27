@@ -1,5 +1,7 @@
 # Cracking the Security Engineer Interviews
 
+> This interview preparation checklist was done by collating information from various places on the Internet _before_ I sat any interviews with these kind of companies. The following doesn't reflect anything I learned while interviewing.
+
 This is a list of technical topics I reviewed before interviewing for Security Engineer positions at some high-profile tech companies. Behavioral interviews are not in scope here.
 
 Some of these companies will be more interested in your software and infrastructure engineering skills than your security credentials. You should be comfortable interviewing at a mid-level Software Engineer level, regardless of the security role and position you are applying for. You should also be comfortable with designing systems with scale in mind and understand some of the issues you're likely to encounter there.
@@ -15,8 +17,6 @@ A few general guidelines:
 - Be pleasant; they're trying to figure out if you're the kind of person they want to work with.
 
 Finally, you'll need to tailor this to whatever role you're applying for; if you're applying for a Mobile Security Engineer position you'll obviously need to prepare some of that.
-
-This interview preparation checklist was done by collating information from various places on the Internet _before_ I sat any interviews with these kind of companies. The following doesn't reflect anything I learned while interviewing.
 
 ## Table of Contents
 
