@@ -189,7 +189,6 @@ Start reviewing the following topics with [Geeks for Geeks](https://www.geeksfor
 
 - Big O notation
 - No free lunch theorem
-- Floyd's algorithm
 
 ### String/Array
 
