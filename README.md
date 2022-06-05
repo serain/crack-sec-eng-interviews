@@ -89,7 +89,7 @@ You're unlikely to be quizzed in-depth on binary exploitation for the average Se
 - DEP
 - NX
 - ASLR
-- Compiler security features for GCC and how they work
+- Compiler security features of GCC and how they work
 - Smart pointers
 
 ## Linux
