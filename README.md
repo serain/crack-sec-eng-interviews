@@ -331,6 +331,7 @@ All the basic cloud stuff.
 
 ### Question Prep
 
+- Secret management (rotation, Vault, managed solutions, k8s solutions...)
 - Confused deputy issues
 - Service to service auth/z
 - ABAC vs RBAC
